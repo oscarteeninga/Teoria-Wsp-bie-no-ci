@@ -1,1 +1,2 @@
-# Teoria-Wspolbieznosci
+# Teoria Wspolbieznosci
+Zadanie realizowane na V Semestrze
