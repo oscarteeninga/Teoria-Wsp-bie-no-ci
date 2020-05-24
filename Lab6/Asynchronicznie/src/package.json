@@ -1,0 +1,15 @@
+{
+  "name": "my-project",
+  "description": "...",
+  "author": "John Doe <jdoe@mail.com>",
+  "dependencies": {
+    "async": "^0.2.10",
+    "async-waterfall": "^0.1.5",
+    "chart.js": "^2.9.3",
+    "chartjs-node": "^1.7.1",
+    "nodeplotlib": "^0.6.4",
+    "plotly": "^1.0.6",
+    "q": "1.x"
+  },
+  "engine": "node >= 0.10.1"
+}
