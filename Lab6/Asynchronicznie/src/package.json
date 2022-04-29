@@ -3,7 +3,7 @@
   "description": "...",
   "author": "John Doe <jdoe@mail.com>",
   "dependencies": {
-    "async": "^0.2.10",
+    "async": "^2.6.4",
     "async-waterfall": "^0.1.5",
     "chart.js": "^2.9.3",
     "chartjs-node": "^1.7.1",
